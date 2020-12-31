@@ -9,10 +9,9 @@
 
 - 1. create a folder XX in src/data
 - 2. copy an example of title.json
-- 3. add an tiem in src/components/menu-item.tsx
-- 4. add a couple in src/components/category.tsx
-- 5. create a folder XX in src/pages and add index.tsx in it
-- 6. add XXJson in src/components/header.tsx in allItems for search auto-complete
+- 3. add a Category in src/components/category.ts
+- 4. create a folder XX in src/pages and add index.tsx in it
+- 5. add XXJson in src/components/header.tsx in allItems for search auto-complete
 
 ## How to add an article?
 
