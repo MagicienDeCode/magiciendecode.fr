@@ -1,0 +1,20 @@
+{
+  "type": "book",
+  "children": [
+    {
+      "title": "Un amour impossible",
+      "page": "un-amour-impossible",
+      "creationDate": "2020-04-05"
+    },
+    {
+      "title": "L'art de se gâcher la vie",
+      "page": "lart-de-se-gacher-la-vie",
+      "creationDate": "2020-04-06"
+    },
+    {
+      "title": "一切坚固的东西都烟消云散了--现代性体验",
+      "page": "yiaiejiangudedongxidouoyanxiaoyunsanle",
+      "creationDate": "2020-04-07"
+    }
+  ]
+}

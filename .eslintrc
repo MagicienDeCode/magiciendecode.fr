@@ -1,0 +1,29 @@
+{
+  "root": true,
+  "parser": "@typescript-eslint/parser",
+  "plugins": ["@typescript-eslint", "react-hooks"],
+  "parserOptions": {
+    //"parser": "@typescript-eslint/parser",
+    "project": "./tsconfig.json"
+  },
+  "extends": [
+    "eslint:recommended",
+    "plugin:@typescript-eslint/eslint-recommended",
+    "plugin:@typescript-eslint/recommended"
+    // "prettier",
+    // "prettier/@typescript-eslint"
+  ],
+  // off 0
+  // warn 1
+  // error 2
+  "rules": {
+    "key-spacing": 0,
+    "semi": [2, "never"],
+    "object-curly-spacing": [2, "always"],
+    "react-hooks/rules-of-hooks": 2, // Checks rules of Hooks
+    "react-hooks/exhaustive-deps": 1, // Checks effect dependencies
+    "@typescript-eslint/explicit-module-boundary-types": 0,
+    "@typescript-eslint/explicit-function-return-type": 0,
+    "no-console": 2
+  }
+}
