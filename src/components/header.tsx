@@ -13,6 +13,7 @@ import japaneseJson from '../data/japanese/title.json'
 import javaJson from '../data/java/title.json'
 import kotlinJson from '../data/kotlin/title.json'
 import { Title } from '../data/title'
+import { MAGICIENDECODE } from '../images/magiciendecode.jpg'
 import MenuItem from './menu-item'
 
 const allItems = [japaneseJson, englishJson, kotlinJson, javaJson, bookJson]
@@ -130,11 +131,7 @@ export default function Header() {
           </Col>
           <Col span={3} className="header-avatar">
             <Link to="/">
-              <Avatar
-                src={
-                  'https://github.com/MagicienDeCode/images/blob/master/magiciendecode/magiciendecode.jpg'
-                }
-              />
+              <Avatar src={MAGICIENDECODE} />
             </Link>
           </Col>
         </Row>

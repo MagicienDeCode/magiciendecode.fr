@@ -6,6 +6,7 @@ import React, { ReactNode } from 'react'
 import { Helmet } from 'react-helmet'
 
 import Header from '../components/header'
+import { STAR } from '../images/star.png'
 
 interface GlobalLayoutProps {
   children: ReactNode
@@ -24,12 +25,7 @@ export default function GlobalLayout({ children }: GlobalLayoutProps) {
           },
         ]}
       >
-        <link
-          rel="icon"
-          href={
-            'https://github.com/MagicienDeCode/images/blob/master/magiciendecode/star.png'
-          }
-        />
+        <link rel="icon" href={STAR} />
       </Helmet>
       <div className="main-body bg-linear">
         <Affix offsetTop={0}>
