@@ -8,6 +8,7 @@ import React, { useState } from 'react'
 import { AlignLeftOutlined, SearchOutlined } from '@ant-design/icons'
 
 import bookJson from '../data/book/title.json'
+import ChineseJson from '../data/chinese/title.json'
 import englishJson from '../data/english/title.json'
 import japaneseJson from '../data/japanese/title.json'
 import javaJson from '../data/java/title.json'
@@ -16,7 +17,14 @@ import { Title } from '../data/title'
 import MAGICIENDECODE from '../images/magiciendecode.jpg'
 import MenuItem from './menu-item'
 
-const allItems = [japaneseJson, englishJson, kotlinJson, javaJson, bookJson]
+const allItems = [
+  ChineseJson,
+  japaneseJson,
+  englishJson,
+  kotlinJson,
+  javaJson,
+  bookJson,
+]
 
 class Options {
   type!: string
