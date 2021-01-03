@@ -159,7 +159,7 @@ export default function Home() {
         <img
           className="home-img-15-5"
           src={
-            'http://cdnjs.cloudflare.com/ajax/libs/emojione/2.2.7/assets/png/1f6e0.png'
+            'https://cdnjs.cloudflare.com/ajax/libs/emojione/2.2.7/assets/png/1f6e0.png'
           }
         />
         <span className="text"> Competences</span>
@@ -234,7 +234,7 @@ export default function Home() {
         <img
           className="home-img-15-5"
           src={
-            'http://cdnjs.cloudflare.com/ajax/libs/emojione/2.2.7/assets/png/1f393.png'
+            'https://cdnjs.cloudflare.com/ajax/libs/emojione/2.2.7/assets/png/1f393.png'
           }
         />
         <span className="text"> Education</span>
@@ -283,7 +283,7 @@ export default function Home() {
         <img
           className="home-img-15-5"
           src={
-            'http://cdnjs.cloudflare.com/ajax/libs/emojione/2.2.7/assets/png/1f525.png'
+            'https://cdnjs.cloudflare.com/ajax/libs/emojione/2.2.7/assets/png/1f525.png'
           }
         />
         <span className="text"> Interests</span>
@@ -295,7 +295,7 @@ export default function Home() {
               <img
                 className="home-img-15-5"
                 src={
-                  'http://cdnjs.cloudflare.com/ajax/libs/emojione/2.2.7/assets/png/1f4da.png'
+                  'https://cdnjs.cloudflare.com/ajax/libs/emojione/2.2.7/assets/png/1f4da.png'
                 }
               />
               Reading - Book is my friend, always.
@@ -306,7 +306,7 @@ export default function Home() {
               <img
                 className="home-img-15-5"
                 src={
-                  'http://cdnjs.cloudflare.com/ajax/libs/emojione/2.2.7/assets/png/1f3a5.png'
+                  'https://cdnjs.cloudflare.com/ajax/libs/emojione/2.2.7/assets/png/1f3a5.png'
                 }
               />
               Movie - Like life
@@ -317,7 +317,7 @@ export default function Home() {
               <img
                 className="home-img-15-5"
                 src={
-                  'http://cdnjs.cloudflare.com/ajax/libs/emojione/2.2.7/assets/png/1f483.png'
+                  'https://cdnjs.cloudflare.com/ajax/libs/emojione/2.2.7/assets/png/1f483.png'
                 }
               />
               Tango - L'élégance dont je ne suis pas encore doté
@@ -328,7 +328,7 @@ export default function Home() {
               <img
                 className="home-img-15-5"
                 src={
-                  'http://cdnjs.cloudflare.com/ajax/libs/emojione/2.2.7/assets/png/1f340.png'
+                  'https://cdnjs.cloudflare.com/ajax/libs/emojione/2.2.7/assets/png/1f340.png'
                 }
               />
               Chinese poetry - <span className="intro-small">诗和远方</span>
@@ -339,7 +339,7 @@ export default function Home() {
               <img
                 className="home-img-15-5"
                 src={
-                  'http://cdnjs.cloudflare.com/ajax/libs/emojione/2.2.7/assets/png/1f339.png'
+                  'https://cdnjs.cloudflare.com/ajax/libs/emojione/2.2.7/assets/png/1f339.png'
                 }
               />
               Literature / Languages
