@@ -130,7 +130,11 @@ export default function Header() {
           </Col>
           <Col span={3} className="header-avatar">
             <Link to="/">
-              <Avatar src={`magiciendecode.jpg`} />
+              <Avatar
+                src={
+                  'https://github.com/MagicienDeCode/images/blob/master/magiciendecode/magiciendecode.jpg'
+                }
+              />
             </Link>
           </Col>
         </Row>

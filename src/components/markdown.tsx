@@ -10,7 +10,7 @@ class MarkdownRemark {
   html!: string
   frontmatter!: {
     path: string
-    title: string
+    //title: string
   }
 }
 
@@ -21,13 +21,13 @@ interface MarkDownProps {
 // this prop will be injected by the GraphQL query below.
 export default function Template({ data }: MarkDownProps) {
   const html = data.markdownRemark.html
-  const title = data.markdownRemark.frontmatter.title
+  //const title = data.markdownRemark.frontmatter.title
   const path = data.markdownRemark.frontmatter.path
   return (
     <div>
       <div className="md-div">
         <BackWard path={path} />
-        <NavigationBar paths={path.substring(1)} lastTitle={title} />
+        <NavigationBar paths={path.substring(1)} />
         <div className="md-main" dangerouslySetInnerHTML={{ __html: html }} />
       </div>
     </div>
@@ -40,7 +40,6 @@ export const pageQuery = graphql`
       html
       frontmatter {
         path
-        title
       }
     }
   }

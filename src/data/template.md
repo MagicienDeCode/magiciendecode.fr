@@ -1,6 +1,5 @@
 ---
-path: "/java/test"
-title: "My first blog post"
+path: '/java/test'
 ---
 
 # my test

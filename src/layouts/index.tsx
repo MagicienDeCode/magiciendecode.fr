@@ -24,7 +24,12 @@ export default function GlobalLayout({ children }: GlobalLayoutProps) {
           },
         ]}
       >
-        <link rel="icon" href={`star.png`} />
+        <link
+          rel="icon"
+          href={
+            'https://github.com/MagicienDeCode/images/blob/master/magiciendecode/star.png'
+          }
+        />
       </Helmet>
       <div className="main-body bg-linear">
         <Affix offsetTop={0}>

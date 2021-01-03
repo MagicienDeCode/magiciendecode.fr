@@ -10,13 +10,10 @@ import MenuItem from './menu-item'
 
 interface NavigationBarProps {
   paths: string
-  lastTitle: string
+  //lastTitle: string
 }
 
-export default function NavigationBar({
-  paths,
-  lastTitle,
-}: NavigationBarProps) {
+export default function NavigationBar({ paths }: NavigationBarProps) {
   const pathArray: string[] = paths.split('/')
 
   const buildName = (pathArray: string[], index: number) => {
@@ -57,6 +54,7 @@ export default function NavigationBar({
             )
           )
         )}
+        {/*
         <Breadcrumb.Item>
           <span className="navigation-bar-last-title">
             {lastTitle.length > 17
@@ -64,6 +62,7 @@ export default function NavigationBar({
               : lastTitle}
           </span>
         </Breadcrumb.Item>
+        */}
       </Breadcrumb>
     </div>
   )
