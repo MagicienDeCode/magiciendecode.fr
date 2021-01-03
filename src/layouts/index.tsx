@@ -6,7 +6,7 @@ import React, { ReactNode } from 'react'
 import { Helmet } from 'react-helmet'
 
 import Header from '../components/header'
-import { STAR } from '../images/star.png'
+import STAR from '../images/star.png'
 
 interface GlobalLayoutProps {
   children: ReactNode

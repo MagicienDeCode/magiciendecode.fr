@@ -13,7 +13,7 @@ import japaneseJson from '../data/japanese/title.json'
 import javaJson from '../data/java/title.json'
 import kotlinJson from '../data/kotlin/title.json'
 import { Title } from '../data/title'
-import { MAGICIENDECODE } from '../images/magiciendecode.jpg'
+import MAGICIENDECODE from '../images/magiciendecode.jpg'
 import MenuItem from './menu-item'
 
 const allItems = [japaneseJson, englishJson, kotlinJson, javaJson, bookJson]
