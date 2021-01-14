@@ -20,7 +20,12 @@ title: '英语单词'
 |  **introversion** [ˌɪntrəˈvɜːʃn]  |                       n. 内向性                       |    I'm pretty much an introvert, actually l've done a personality test.     |
 |                                   |                                                       |     And I think introverts tend to be more humble and better listeners.     |
 |       **cereal** [ˈsɪəriəl]       |          n. 谷类，谷物；谷类食品 adj. 谷类的          |                 Is this all the cereal you've got in stock?                 |
-|                                   |                                                       |
+|       **ritual** [ˈrɪtʃuəl]       |            n. 仪式；惯例；礼制 adj. 仪式的            |              Do you have a sense of ritual in life ? 注重仪式               |
+|          **tile** [taɪl]          |               n. 瓷砖，瓦片 vt. 铺以瓦                |                       I think the tiles are damaged.                        |
+|       **carpet** [ˈkɑːpɪt]        |                      v. n. 地毯                       |                   Water is now dripping onto the carpet.                    |
+|                                   |                                                       |                                                                             |
+|                                   |                                                       |                                                                             |
+|                                   |                                                       |                                                                             |
 |                                   |                                                       |                                                                             |
 |                                   |                                                       |                                                                             |
 |                                   |                                                       |                                                                             |
