@@ -23,6 +23,9 @@ title: '英语单词'
 |       **ritual** [ˈrɪtʃuəl]       |            n. 仪式；惯例；礼制 adj. 仪式的            |              Do you have a sense of ritual in life ? 注重仪式               |
 |          **tile** [taɪl]          |               n. 瓷砖，瓦片 vt. 铺以瓦                |                       I think the tiles are damaged.                        |
 |       **carpet** [ˈkɑːpɪt]        |                      v. n. 地毯                       |                   Water is now dripping onto the carpet.                    |
+|     **distilled** [dɪs'tɪld]      |           adj. 由蒸馏得来的；净化的 v. 蒸馏           | The whisky had been distilled in 1926 and sat quietly maturing until 1987.  |
+|  **palindromic** [,pælɪn'drɒmɪk]  |                      adj. 回文的                      |                        Longest Palindromic Substring                        |
+|                                   |
 |                                   |                                                       |                                                                             |
 |                                   |                                                       |                                                                             |
 |                                   |                                                       |                                                                             |
@@ -30,3 +33,17 @@ title: '英语单词'
 |                                   |                                                       |                                                                             |
 |                                   |                                                       |                                                                             |
 |                                   |                                                       |                                                                             |
+|                                   |                                                       |                                                                             |
+|                                   |                                                       |                                                                             |
+|                                   |                                                       |                                                                             |
+|                                   |                                                       |                                                                             |
+
+1. con
+   - controversial [ˌkɒntrəˈvɜːʃl] adj. 有争议的；有争论的 ( Immigration is a controversial issue in many countries. )
+   - contradict [kɒntrəˈdɪkt] vt. 反驳；否定；与…矛盾；与…抵触 vi. 反驳；否认 ( The two stories contradict each other. )
+   - contrary ['kɒntrərɪ] adj. 相反的；对立的 adv. 相反地 n. 相反；反面 ( It's no trouble at all; on the contrary, it will be a great pleasure to help you. )
+   - contrast [kɒntrɑːst] n. 明显的差异，对比 v. 对比，对照 ( This is an example of no contrast. )
+2. nounce
+   - denounce [dɪˈnaʊns] vt. 谴责；告发；公然抨击； ( And if we fail, they will denounce us. )
+   - renounce [rɪˈnaʊns] vt. 宣布放弃；与…断绝关系；垫牌 vi. 放弃权利 ( They renounce the world, towns, sensualities, pleasures, vanities, pride, interests. )
+3. self-compassion 自我同情 / self-esteem 自尊

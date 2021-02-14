@@ -18,3 +18,4 @@ title: 'English-sentences'
 11. Do your best on what you can still change, but be brave enough to accept what you cannot.
 12. I am madly deeply truly passionately in love with you. 疯狂地 深深地 真诚地 热烈地
 13. Everybody is trading life for money. You can choose to stay comfortable but you must bear the result.
+14. Long-distance travel (Life) can be boring, but I'm glad we're doing it together.
