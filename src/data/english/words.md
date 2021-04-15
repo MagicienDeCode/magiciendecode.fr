@@ -27,7 +27,7 @@ title: '英语单词'
 |    **palindromic** [,pælɪn'drɒmɪk]     |                      adj. 回文的                      |                        Longest Palindromic Substring                        |
 | **procrastination** [prəˌkræstɪˈneɪʃn] |                 n. 耽搁，拖延；拖延症                 |                    How can we prevent procrastination ?                     |
 |      **adrenaline** [əˈdrenəlɪn]       |                  n. [生化] 肾上腺素                   |                                                                             |
-|                                        |                                                       |                                                                             |
+|          **breach** [briːtʃ]           |       n. 违背，违反；缺口 vt. 违反，破坏；打破        |                 That is now a breach of the lockdown rules.                 |
 |                                        |                                                       |                                                                             |
 |                                        |                                                       |                                                                             |
 |                                        |                                                       |                                                                             |
