@@ -1,12 +1,12 @@
 ---
-path: "/book/lart-de-se-gacher-la-vie"
+path: '/book/lart-de-se-gacher-la-vie'
 title: "L'art de se gâcher la vie"
 ---
 
 # L'art de se gâcher la vie
 
 - 1. Se gâcher la vie est un droit inaliénable mais bien inutile.
-- 2. S’entêter san résultat; se tracasser inutilement; croire à l’impossible; rester assis sur ses idées sans les remettre en question; répéter encore et encore les mêmes comportements sans prendre en compte leur inefficacité: on se gâche la vie parce qu’on raisonne mal, parce qu’on ne change rien ou parce qu’on agit de façon inappropriée.
+- 2. S’entêter sans résultat; se tracasser inutilement; croire à l’impossible; rester assis sur ses idées sans les remettre en question; répéter encore et encore les mêmes comportements sans prendre en compte leur inefficacité: on se gâche la vie parce qu’on raisonne mal, parce qu’on ne change rien ou parce qu’on agit de façon inappropriée.
 - 3. Faut-il continuer ou abandonner? Comment sortir de son enfermement? Jusqu’où rester fidèle à soi-même? Quand faut-il renoncer à s’acharner? Comment savoir si la persévérance sera mortifère ou fructueuse? Ce livre propose d’examiner l’art de bien vivre sous un angle légèrement provocant, en mettant en lumière les mécanismes aussi ingénieux que biscornus que nous utilisons, souvent à notre insu, pour nous gâcher la vie.
 - 4. On n’arrive pas à prendre du recul, on reste assis sur ses convictions, on ne comprend pas, on se décourage, accroché à soi-même, hors du temps, hors du vrai, hors du réel.
 - 5. **Il faut accepter l’imperfection de la vie, des autres et de soi-même, ainsi que la finitude de toute chose et la solitude existentielle.** Je suis persuadée que ce temps de respiration est indispensable pour des solutions.

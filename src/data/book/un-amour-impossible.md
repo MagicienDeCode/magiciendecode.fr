@@ -1,6 +1,6 @@
 ---
-path: "/book/un-amour-impossible"
-title: "Un amour impossible"
+path: '/book/un-amour-impossible'
+title: 'Un amour impossible'
 ---
 
 # Un amour impossible
@@ -153,7 +153,7 @@ title: "Un amour impossible"
 - 135. Avoir un enfant, dans ces conditions-là, permettait de vérifier à quel point vous étiez de deux catégories séparées.
 - 136. << si t’avais été riche j’aurais peut-être réfléchi >>.
 - 137. Sauf que c’était contraire à la logique de leur camp. Contraire à ce qu’ils veulent. Donc qu’est-ce qu’il pouvait faire? Eh bien, il a trouvé. **Il a ignoré l’interdit fondamental pour les ascendants d’avoir des relations sexuelles avec leur enfants. C’était peut-être un interdit fondamental, mais ça ne le concernait pas. Pas lui. Comme s’il n’était pas mon père et que je n’étais pas son enfant. Il était au-dessus de ça, au-dessus de toi, de nous, et des règle sociales d’une manière générale. Y compris de la règle sociale fondamentale, donc très très au-dessus. Ne pas reconnaître un interdit qui s’applique à tous, c’est la distinction suprême. Tu comprends! Quelle classe! Et pour lui, ç’a été la façon ultime, imparable, d’annuler la reconnaissance. ça va bien au-delà de la prise de sang. C’était la négation automatique. Changement de point de vue. L’interdit fondamental, là, c’est plus celui des relations sexuelles entre ascendants et descendants, mais celui de la _mésalliance_. Comme ça il y avait toujours d’un côté toi, et de l’autre lui. Puisque c’était ça, qu’il fallait préserver à tout prix, c’était ça pour eux la règle fondamentale. Lui dans son monde supérieur. Et toi dans ton monde inférieur. Avec en plus, pour toi, dans ce monde inférieur, pour t’inférioriser encore un peu plus, te faire tomber dans le bas du bas du plus bas des bas-fonds, en prime, ta fille, violée par son père, et toi la mère qui voit rien, l’imbécile, la conne, l’idiote, la complice même va savoir. Tu descends encore de quelques degrés sur l’échelle de la respectabilité, là de toute façon il y a pas plus bas. Il y a pas plus bas que ça. Je suis sûre que c’est ça maman.**
-- 138. De l’état d’âme qui, cette lointaine année-là, n’avait été pour moi qu’une longue torture rien ne subsistait. Car il y a dans ce monde où tout s’use, où tout périt, une chose qui tombe en ruines, qui se détruit encore plus complètement, en laissant encore moins de vestiges que la Beauté: c’est le Chagrin.
+- 138. **De l’état d’âme qui, cette lointaine année-là, n’avait été pour moi qu’une longue torture rien ne subsistait. Car il y a dans ce monde où tout s’use, où tout périt, une chose qui tombe en ruines, qui se détruit encore plus complètement, en laissant encore moins de vestiges que la Beauté: c’est le Chagrin.**
 
 * 1. Pour remédier à la déception, je veux oublier, partir, vers autre choses. Donc, c’est un genre d’échapper de l’échec?
 * 2. Il y aussi la mère qu’on aime et qu’on n’arrive plus à supporter.

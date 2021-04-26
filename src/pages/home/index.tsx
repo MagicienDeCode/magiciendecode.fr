@@ -91,20 +91,6 @@ export default function Home() {
                 </span>
               </li>
               <li>
-                <span className="intro ">
-                  Je me définis comme étant une personne passionnée et
-                  organisée. Je suis rigoureux, efficace et j'apprécie le
-                  travail de qualité.
-                </span>
-              </li>
-              <li>
-                <span className="intro">
-                  En tant que développeur curieux et perfectionniste, j'ai une
-                  grande faculté d'apprentissage et j'apprécie de travailler sur
-                  des projets ambitieux et challengeant.
-                </span>
-              </li>
-              <li>
                 <span className="intro">
                   J’apprends constamment sur les nouvelles technologies, et
                   j’entreprends des nouveaux projets personnels afin
