@@ -115,9 +115,55 @@ export default function Home() {
             </ul>
           </TabPane>
           <TabPane tab={<img className="home-img-20" src={`zh.png`} />} key="2">
-            <p>
-              <span className="intro ">Coming</span>
-            </p>
+            <ul>
+              <li>
+                <span className="intro ">三个信念</span>
+              </li>
+              <li>
+                <span className="intro">第一，对的事情要能承认它是对的</span>
+              </li>
+              <li>
+                <span className="intro">
+                  第二，组织的常识和社会的常识要一致
+                </span>
+              </li>
+              <li>
+                <span className="intro">
+                  第三，勤勤恳恳工作的人要获得正当的评价
+                </span>
+              </li>
+              <li>
+                <span className="intro">
+                  我们工作是为了客户，进而为了社会，如果忘了这个大原则
+                  人们就会开始只为了自己工作，为自己做的工作，闭塞而卑微，丑陋而扭曲
+                  如果XX那样的人越来越多，组织当然会腐败，如果组织腐败了，社会就也会腐败
+                </span>
+              </li>
+              <li>
+                <span className="intro"></span>
+              </li>
+              <li>
+                <span className="intro">最重要的是感谢和报恩</span>
+              </li>
+              <li>
+                <span className="intro">如果心里没有这两样东西</span>
+              </li>
+              <li>
+                <span className="intro">未来就只是一厢情愿的幻想</span>
+              </li>
+              <li>
+                <span className="intro">要对一路走来遇到的人和事心怀感激</span>
+              </li>
+              <li>
+                <span className="intro">知恩图报 认真工作</span>
+              </li>
+              <li>
+                <span className="intro">这样就一定能开创美好的未来</span>
+              </li>
+              <li>
+                <span className="intro">祝你成功</span>
+              </li>
+            </ul>
           </TabPane>
           <TabPane tab={<img className="home-img-20" src={`uk.png`} />} key="3">
             <p>
