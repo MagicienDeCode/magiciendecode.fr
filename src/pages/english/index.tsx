@@ -16,7 +16,7 @@ export default function Index() {
     <div>
       <Row justify="center" className="english-index-row">
         <Link to="grammer">
-          <Tag color="red">英语语法 - English Grammer</Tag>
+          <Tag color="green">英语语法 - English Grammer</Tag>
         </Link>
       </Row>
       <Row justify="center" className="english-index-row">
@@ -24,7 +24,11 @@ export default function Index() {
           <Tag color="violet">工作常用 - Business English</Tag>
         </Link>
       </Row>
-
+      <Row justify="center" className="english-index-row">
+        <Link to="culture">
+          <Tag color="red">中国文化- Chinese Culture</Tag>
+        </Link>
+      </Row>
       <div className="page-index">
         <PageLink titles={titles} />
       </div>
