@@ -10,6 +10,7 @@ export default function Index() {
       'Beginning of Spring 立春',
       '2021-05-17'
     ),
+    new Title('/english/rain-water', 'Rain Water 雨水', '2021-05-20'),
   ]
   return (
     <div className="page-index">
