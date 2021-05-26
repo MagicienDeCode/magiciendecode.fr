@@ -11,6 +11,7 @@ export default function Index() {
       '2021-05-17'
     ),
     new Title('/english/rain-water', 'Rain Water 雨水', '2021-05-20'),
+    new Title('/english/pure-brightness', 'Pure Brightness 清明', '2021-05-26'),
   ]
   return (
     <div className="page-index">
