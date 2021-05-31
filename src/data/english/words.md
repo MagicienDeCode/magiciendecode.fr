@@ -28,7 +28,7 @@ title: '英语单词'
 | **procrastination** [prəˌkræstɪˈneɪʃn] |                 n. 耽搁，拖延；拖延症                 |                    How can we prevent procrastination ?                     |
 |      **adrenaline** [əˈdrenəlɪn]       |                  n. [生化] 肾上腺素                   |                                                                             |
 |          **breach** [briːtʃ]           |       n. 违背，违反；缺口 vt. 违反，破坏；打破        |                 That is now a breach of the lockdown rules.                 |
-|                                        |                                                       |                                                                             |
+|       **notorious**[nəʊˈtɔːriəs]       |              adj. 声名狼藉的，臭名昭著的              |                        The area is notorious for ...                        |
 |                                        |                                                       |                                                                             |
 |                                        |                                                       |                                                                             |
 |                                        |                                                       |                                                                             |
