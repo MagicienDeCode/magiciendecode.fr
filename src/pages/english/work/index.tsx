@@ -15,6 +15,11 @@ export default function Index() {
       'Write a formal 正规信件',
       '2021-03-16'
     ),
+    new Title(
+      '/english/self-introduction',
+      'self-introduction 自我介绍',
+      '2021-06-02'
+    ),
   ]
   return (
     <div className="page-index">
