@@ -17,6 +17,7 @@ export default function Index() {
       'Beginning of Spring 立夏',
       '2021-05-31'
     ),
+    new Title('/english/summer-solstice', 'Summer Solstice 夏至', '2021-06-07'),
   ]
   return (
     <div className="page-index">
