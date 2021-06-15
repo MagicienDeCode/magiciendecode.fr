@@ -18,6 +18,11 @@ export default function Index() {
       '2021-05-31'
     ),
     new Title('/english/summer-solstice', 'Summer Solstice 夏至', '2021-06-07'),
+    new Title(
+      '/english/beginning-of-autumn',
+      'Beginning of Autumn 立秋',
+      '2021-06-09'
+    ),
   ]
   return (
     <div className="page-index">
