@@ -23,6 +23,7 @@ export default function Index() {
       'Beginning of Autumn 立秋',
       '2021-06-09'
     ),
+    new Title('/english/winter-solstice', 'Winter Solstice 冬至', '2021-06-21'),
   ]
   return (
     <div className="page-index">

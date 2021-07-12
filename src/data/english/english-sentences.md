@@ -19,3 +19,4 @@ title: 'English-sentences'
 12. I am madly deeply truly passionately in love with you. 疯狂地 深深地 真诚地 热烈地
 13. Everybody is trading life for money. You can choose to stay comfortable but you must bear the result.
 14. Long-distance travel (Life) can be boring, but I'm glad we're doing it together.
+15. But konwing better, and doing it anyway, is part of what makes us human.
