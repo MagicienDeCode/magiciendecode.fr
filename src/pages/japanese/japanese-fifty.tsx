@@ -100,7 +100,7 @@ export default function JapaneseFifty({ data }: JapaneseFiftyProps) {
   return (
     <div>
       <BackWard path={'/japanese/japanese-fifty'} />
-      <NavigationBar paths="japanese" lastTitle="五十音图 ごじゅうおんず" />
+      <NavigationBar paths="japanese" />
       <Tabs defaultActiveKey="1">
         <TabPane tab="ひらがな" key="1">
           <Table

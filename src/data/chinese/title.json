@@ -5,6 +5,21 @@
       "title": "增广贤文",
       "page": "zeguangxianwen",
       "creationDate": "2021-01-03"
+    },
+    {
+      "title": "古诗文-唐",
+      "page": "gushiwen-tang",
+      "creationDate": "2021-12-29"
+    },
+    {
+      "title": "古诗文-宋",
+      "page": "gushiwen-song",
+      "creationDate": "2021-12-28"
+    },
+    {
+      "title": "古诗文-其他",
+      "page": "gushiwen-extra",
+      "creationDate": "2021-12-27"
     }
   ]
 }
