@@ -10,6 +10,7 @@ export class Category {
 }
 
 export const Categorys: Category[] = Array<Category>(
+  new Category('cv', 'CV', '../../cv.png'),
   new Category('java', 'Java', '../../java.png'),
   new Category('kotlin', 'Kotlin', '../../kotlin.png'),
   new Category('french', 'Français', '../../fr.png'),
