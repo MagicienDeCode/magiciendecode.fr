@@ -11,7 +11,7 @@ export default function Home() {
     <div className="main-home">
       <div className="div-1">
         <div className="div-1-1">
-          <Badge count={28}>
+          <Badge count={30}>
             <Avatar src={`xiangp7.jpg`} className="home-avatar" />
           </Badge>
         </div>
