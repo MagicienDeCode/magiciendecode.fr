@@ -25,6 +25,11 @@
       "title": "Kotlin 易与Java混淆的地方",
       "page": "kotlin-java",
       "creationDate": "2020-06-16"
+    },
+    {
+      "title": "Kotlin Hibernate",
+      "page": "kotlin-hibernate",
+      "creationDate": "2021-01-27"
     }
   ]
 }

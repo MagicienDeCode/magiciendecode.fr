@@ -14,6 +14,7 @@ title: '英语单词'
    - denounce [dɪˈnaʊns] vt. 谴责；告发；公然抨击； ( And if we fail, they will denounce us. )
    - renounce [rɪˈnaʊns] vt. 宣布放弃；与…断绝关系；垫牌 vi. 放弃权利 ( They renounce the world, towns, sensualities, pleasures, vanities, pride, interests. )
 3. self-compassion 自我同情 / self-esteem 自尊
+4. crippled [krɪp(ə)ld] | v. 使跛足，使残疾，使伤残；严重毁坏或损害 |our farming industry is being crippled by lack of workers
 
 # Uncountable Nouns
 
