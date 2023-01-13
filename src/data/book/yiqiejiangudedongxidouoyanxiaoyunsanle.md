@@ -1,5 +1,5 @@
 ---
-path: "/book/yiaiejiangudedongxidouoyanxiaoyunsanle"
+path: "/book/yiqiejiangudedongxidouoyanxiaoyunsanle"
 title: "一切坚固的东西都烟消云散了--现代性体验"
 ---
 
