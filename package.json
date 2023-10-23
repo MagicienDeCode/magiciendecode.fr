@@ -6,7 +6,7 @@
   "license": "0BSD",
   "scripts": {
     "build": "npm run lint && gatsby build",
-    "dev": "gatsby develop",
+    "dev": "set NODE_OPTIONS=--openssl-legacy-provider && gatsby develop",
     "start": "gatsby develop",
     "format": "prettier --write \"**/*.{js,jsx,ts,tsx,json,md}\"",
     "serve": "gatsby serve",
