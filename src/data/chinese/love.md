@@ -69,5 +69,3 @@ path: '/chinese/love'
 ## 联系我 邮箱 xiangli1105@hotmail.com
 
 ![](../markdown-img/1.jpg)
-![](../markdown-img/2.jpg)
-![](../markdown-img/3.jpg)
