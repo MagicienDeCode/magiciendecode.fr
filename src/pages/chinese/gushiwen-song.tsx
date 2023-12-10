@@ -27,7 +27,7 @@ export default function Example() {
           <Panel header="寄黄几复" key="3" extra={'黄庭坚'}>
             <p>我居北海君南海，寄雁传书谢不能。</p>
             <p>桃李春风一杯酒，江湖夜雨十年灯。</p>
-            <p>持家但有四立壁，治病不蕲三折肱。</p>
+            <p>持家但有四立壁，治病不蕲三折肱qi2 zhé gong1。</p>
             <p>想见读书头已白，隔溪猿哭瘴溪藤。</p>
           </Panel>
           <Panel header="寒菊 / 画菊" key="4" extra={'郑思肖'}>

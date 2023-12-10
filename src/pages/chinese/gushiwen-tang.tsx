@@ -43,6 +43,7 @@ export default function Example() {
             <p>造化钟神秀，阴阳割昏晓。</p>
             <p>荡胸生曾云，决眦入归鸟。</p>
             <p>会当凌绝顶，一览众山小。</p>
+            <p>泰山</p>
           </Panel>
           <Panel header="登科后" key="4" extra={'孟郊'}>
             <p>昔日龌龊不足夸，今朝放荡思无涯。</p>
@@ -61,23 +62,25 @@ export default function Example() {
             <p>暂去还来此，幽期不负言。</p>
           </Panel>
           <Panel header="金陵晚望" key="7" extra={'高蟾'}>
-            <p>曾伴浮云归晚翠，犹陪落日泛秋声。</p>
+            <p>céng曾伴浮云归晚翠，犹陪落日泛秋声。</p>
             <p>世间无限丹青手，一片伤心画不成。</p>
+            <p>一片伤心，唐朝危机四伏，无可挽回地走向崩溃的末日</p>
           </Panel>
           <Panel header="白雪歌送武判官归京" key="8" extra={'岑参'}>
-            <p>北风卷地白草折，胡天八月即飞雪。</p>
+            <p>北风卷地白草折zhé，胡天八月即飞雪。</p>
             <p>忽如一夜春风来，千树万树梨花开。</p>
-            <p>散入珠帘湿罗幕，狐裘不暖锦衾薄。</p>
+            <p>散入珠帘湿罗幕，狐裘不暖锦衾薄bao2。</p>
             <p>将军角弓不得控，都护铁衣冷难着。</p>
             <p>瀚海阑干百丈冰，愁云惨淡万里凝。</p>
             <p>中军置酒饮归客，胡琴琵琶与羌笛。</p>
-            <p>纷纷暮雪下辕门，风掣红旗冻不翻。</p>
+            <p>纷纷暮雪下辕门，风掣chè红旗冻不翻。</p>
             <p>轮台东门送君去，去时雪满天山路。</p>
             <p>山回路转不见君，雪上空留马行处。</p>
           </Panel>
           <Panel header="泊秦淮" key="9" extra={'杜牧'}>
             <p>烟笼寒水月笼沙，夜泊秦淮近酒家。</p>
             <p>商女不知亡国恨，隔江犹唱后庭花。</p>
+            <p>陈朝，歌女，玉树后庭花</p>
           </Panel>
           <Panel header="相思" key="10" extra={'王维'}>
             <p>红豆生南国，春来发几枝。</p>
@@ -90,7 +93,7 @@ export default function Example() {
           <Panel header="南歌子词二首" key="12" extra={'温庭筠'}>
             <p>一尺深红蒙曲尘，天生旧物不如新。</p>
             <p>合欢桃核终堪恨，里许元来别有人。</p>
-            <p>井底点灯深烛伊，共郎长行莫围棋。</p>
+            <p>井底点灯深烛伊yi1，共郎长行莫围棋。</p>
             <p>玲珑骰子安红豆，入骨相思知不知。</p>
           </Panel>
           <Panel header="月下独酌四首" key="13" extra={'李白'}>
@@ -141,7 +144,7 @@ export default function Example() {
             <p>阿卫韩郎相次去，夜台茫昧得知不。</p>
           </Panel>
           <Panel header="清平调" key="22" extra={'李白'}>
-            <p>云想衣裳花想容，春风拂槛露华浓。</p>
+            <p>云想衣裳花想容，春风拂槛露华浓。chang2 jian4 </p>
             <p>若非群玉山头见，会向瑶台月下逢。</p>
           </Panel>
           <Panel header="赠去婢" key="23" extra={'崔郊'}>
@@ -155,10 +158,11 @@ export default function Example() {
             <p>偶然值林叟，谈笑无还期。</p>
           </Panel>
           <Panel header="夜泊牛渚怀古" key="25" extra={'李白'}>
-            <p>牛渚西江夜，青天无片云。</p>
+            <p>牛渚西江夜，青天无片云。zhu3</p>
             <p>登舟望秋月，空忆谢将军。</p>
             <p>余亦能高咏，斯人不可闻。</p>
             <p>明朝挂帆席，枫叶落纷纷。</p>
+            <p>东晋谢尚将军</p>
           </Panel>
           <Panel header="金铜仙人辞汉歌" key="26" extra={'李贺'}>
             <p>茂陵刘郎秋风客，夜闻马嘶晓无迹。</p>
@@ -195,6 +199,7 @@ export default function Example() {
           <Panel header="出塞二首·其一" key="33" extra={'王昌龄'}>
             <p>秦时明月汉时关，万里长征人未还。</p>
             <p>但使龙城飞将在，不教胡马度阴山。</p>
+            <p>李广</p>
           </Panel>
           <Panel header="过华清宫绝句三首·其一" key="34" extra={'杜牧'}>
             <p>长安回望绣成堆，山顶千门次第开。</p>
@@ -284,7 +289,7 @@ export default function Example() {
           <Panel header="无题*春心莫共花争发" key="53" extra={'李商隐'}>
             <p>飒飒东风细雨来，芙蓉塘外有轻雷。</p>
             <p>金蟾啮锁烧香入，玉虎牵丝汲井回。</p>
-            <p>贾氏窥帘韩掾少，宓妃留枕魏王才。</p>
+            <p>贾氏窥帘韩掾少，宓妃留枕魏王才。yuan4 shao4 fu2</p>
             <p>春心莫共花争发，一寸相思一寸灰！</p>
           </Panel>
           <Panel header="逢入京使" key="54" extra={'岑参'}>
@@ -312,6 +317,7 @@ export default function Example() {
             <p>一去紫台连朔漠，独留青冢向黄昏。</p>
             <p>画图省识春风面，环珮空归夜月魂。</p>
             <p>千载琵琶作胡语，分明怨恨曲中论。</p>
+            <p>王昭君</p>
           </Panel>
           <Panel header="送柴侍御" key="59" extra={'王昌龄'}>
             <p>流水通波接武冈，送君不觉有离伤。</p>

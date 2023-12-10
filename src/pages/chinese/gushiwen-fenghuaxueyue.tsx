@@ -76,7 +76,7 @@ export default function Example() {
             <p></p>
             <p></p>
           </Panel>
-          <Panel header="月" key="3" extra={''}>
+          <Panel header="月" key="4" extra={''}>
             <p>春风又绿江南岸，明月何时照我还？</p>
             <p>人生自是有情痴，此恨不关风与月。</p>
             <p>人生得意须尽欢，莫使金樽空对月。</p>
@@ -98,19 +98,35 @@ export default function Example() {
             <p>古人今人若流水，共看明月皆如此。</p>
             <p>唯愿当歌对酒时，月光长照金樽里。</p>
           </Panel>
-          <Panel header="" key="4" extra={''}>
+          <Panel header="情" key="5" extra={''}>
+            <p>他朝若是同淋雪，此生也算共白头。</p>
+            <p>今朝携手同淋雪，此生情路共白头。</p>
+            <p>忆君心似西江水，日夜东流无歇时。</p>
+            <p>春心莫共花争发，一寸相思一寸灰！</p>
+            <p>直道相思了无益，未妨惆怅是清狂。</p>
+            <p></p>
+            <p></p>
             <p></p>
             <p></p>
           </Panel>
-          <Panel header="" key="5" extra={''}>
+          <Panel header="乡" key="6" extra={''}>
+            <p>青山一道同云雨，明月何曾是两乡。</p>
+            <p>此夜曲中闻折柳，何人不起故园情。</p>
+            <p></p>
+            <p></p>
+            <p></p>
+            <p></p>
+            <p></p>
             <p></p>
             <p></p>
           </Panel>
-          <Panel header="" key="6" extra={''}>
+          <Panel header="夸" key="7" extra={''}>
+            <p>云想衣裳花想容，春风拂槛露华浓。</p>
+            <p>扫眉才子知多少，管领春风总不如。</p>
             <p></p>
             <p></p>
-          </Panel>
-          <Panel header="x" key="7" extra={''}>
+            <p></p>
+            <p></p>
             <p></p>
             <p></p>
           </Panel>

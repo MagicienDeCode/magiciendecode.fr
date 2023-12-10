@@ -41,16 +41,19 @@ export default function Example() {
             <p>魂飞庾岭春难辨，霞隔罗浮梦未通。</p>
             <p>绿萼添妆融宝炬，缟仙扶醉跨残虹。</p>
             <p>看来岂是寻常色，浓淡由他冰雪中。</p>
+            <p>gao3 xian1 fu2 zui4 kua4 can2 hong2</p>
           </Panel>
           <Panel header="咏菊" key="5" extra={''}>
-            <p>无赖诗魔昏晓侵，绕篱欹石自沉音。</p>
+            <p>无赖诗魔昏晓侵，绕篱欹石自沉音。qi1</p>
             <p>毫端蕴秀临霜写，口齿噙香对月吟。</p>
             <p>满纸自怜题素怨，片言谁解诉秋心？</p>
             <p>一从陶令评章后，千古高风说到今。</p>
           </Panel>
-          <Panel header="" key="6" extra={''}>
-            <p></p>
-            <p></p>
+          <Panel header="木兰花·拟古决绝词柬友" key="6" extra={'纳兰性德*清'}>
+            <p>人生若只如初见，何事秋风悲画扇。</p>
+            <p>等闲变却故人心，却道故人心易变。</p>
+            <p>骊山语罢清宵半，泪雨霖铃终不怨。li2 lin2 ling2</p>
+            <p>何如薄幸锦衣郎，比翼连枝当日愿。</p>
           </Panel>
           <Panel header="x" key="7" extra={''}>
             <p></p>
