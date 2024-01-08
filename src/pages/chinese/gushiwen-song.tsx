@@ -72,9 +72,11 @@ export default function Example() {
             <p>人言落日是天涯，望极天涯不见家。</p>
             <p>已恨碧山相阻隔，碧山还被暮云遮。</p>
           </Panel>
-          <Panel header="x" key="13" extra={''}>
-            <p></p>
-            <p></p>
+          <Panel header="少年游" key="13" extra={'周邦彦'}>
+            <p>并刀如水，吴盐胜雪，纤手破新橙。</p>
+            <p>锦幄初温，兽烟不断，相对坐调笙。</p>
+            <p>低声问向谁行宿，城上已三更。</p>
+            <p>马滑霜浓，不如休去，直是少人行。</p>
           </Panel>
           <Panel header="x" key="14" extra={''}>
             <p></p>
